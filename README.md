@@ -1,5 +1,3 @@
-# PocketGroq v0.5.6: Vision and Speech Processing Meets Autonomous Agents!
-![PocketGroq Logo](https://github.com/user-attachments/assets/d06b6aaf-400e-40db-bdaf-626aaa1040ef)
 
 ## What's New in v0.5.6
 
