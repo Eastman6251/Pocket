@@ -466,8 +466,6 @@ Here's a comprehensive list of all the methods/functions available in PocketGroq
 
 This project is licensed under the MIT License. When using PocketGroq in your projects, please include a mention of J. Gravelle in your code and/or documentation.
 
-![J. Gravelle](https://github.com/user-attachments/assets/73c812cd-685e-4969-9497-639ae9312d6c)
-
 ---
 
 Thank you for using PocketGroq! We hope this tool enhances your development process and enables you to create amazing AI-powered applications with ease. If you have any questions or need further assistance, don't hesitate to reach out to the community or check the documentation. Happy coding!
